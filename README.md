@@ -24,13 +24,13 @@ https://www.youtube.com/watch?v=3Xq_QfYdmMQ&t=257s
 The video link above will explain you the details of the manifest file (you only really need to watch the first 6 mins).
 
 File Format: 
-https://developer.chrome.com/docs/extensions/mv3/manifest/
+https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/
 
 **How to run build**
 1. run `npm run build` to bundle react project in production mode
 2. Go to chrome browser. Click on elipsis > More tools > Extensions
 2. Load Unpacked on the top bar (ensure developer mode is turned on - found on top right)
-3. Unpack directory folder named 'dir' (this is where your manifest.json file would be located)
+3. Unpack directory folder named 'dist' (this is where your manifest.json file would be located)
 4. On top right of browser click on puzzle icon to see all extensions. You may want to pin the desired extension.
 
 Webpack documentation:<br>
