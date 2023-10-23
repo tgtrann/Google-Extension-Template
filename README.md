@@ -30,7 +30,7 @@ https://developer.chrome.com/docs/extensions/mv3/manifest/
 1. run `npm run build` to bundle react project in production mode
 2. Go to chrome browser. Click on elipsis > More tools > Extensions
 2. Load Unpacked on the top bar (ensure developer mode is turned on - found on top right)
-3. Unpack directory folder named 'dir' (this is where your manifest.json file would be located)
+3. Unpack directory folder named 'dist' (this is where your manifest.json file would be located)
 4. On top right of browser click on puzzle icon to see all extensions. You may want to pin the desired extension.
 
 Webpack documentation:<br>
