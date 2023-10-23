@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=3Xq_QfYdmMQ&t=257s
 The video link above will explain you the details of the manifest file (you only really need to watch the first 6 mins).
 
 File Format: 
-https://developer.chrome.com/docs/extensions/mv3/manifest/
+https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/
 
 **How to run build**
 1. run `npm run build` to bundle react project in production mode
